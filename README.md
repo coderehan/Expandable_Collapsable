@@ -1,1 +1,21 @@
-# Expandable_Collapsable
+<h2> CAW Studios Android Assignment</h2>
+
+<b>Problem Statement:</b>
+
+Build an android app that should perform expand and collapse views. Clicking on any collapased view toggles its state i.e. it expands and the other expanded view collapses.
+
+Use API: https://jsonplaceholder.typicode.com/photos
+
+<b>About App:</b>
+
+This app is built in <b>Kotlin</b> that has expand and collapse view feature 
+
+<b>Libraries used:</b>
+1. Data Binding
+2. Google Material Design
+
+<b>UI Screenshots:</b>
+
+<img src="https://user-images.githubusercontent.com/75351694/209777097-4c9d6224-d783-4a51-bd79-717f2013a8d5.jpg" width=30% height=30%> <img src="https://user-images.githubusercontent.com/75351694/209777177-fac27af3-157a-478e-86b9-0340e98521c6.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/75351694/209777227-0b0368be-c0f4-4b5a-938f-4dae745ed251.jpg" width=30% height=30%> <img src="https://user-images.githubusercontent.com/75351694/209777278-c96819cb-3ec2-4eea-a030-46e2a34cd4d6.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/75351694/209777335-569e2ae3-c1b3-4865-9253-a5a8ea10b417.jpg" width=30% height=30%>
